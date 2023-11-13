@@ -43,11 +43,6 @@
 5. 部署教程（零成本部署）：https://github.com/Aniuyyds/ChatGPT-website/blob/master/%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B/%E6%95%99%E7%A8%8B.md
 7. 项目纯前端版本（零成本部署）：https://gitee.com/aniu-666/chat-gpt-website/tree/web/
 
-## 学习交流 
-
-### 全栈学习交流1群：[799160455](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=jj15fOLBvm5U97kuj-Jgvvld2eDACl2o&authKey=fcll1nLa0V9wFMPkJGurdv%2FX%2FHlasFVHpS9vmtuFLofiqBD%2Fgl5fcjXBmg4E3Ovc&noverify=0&group_code=799160455) （已满员）
-
-### 全栈学习交流2群：[879763865](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=mVTtPhPE_-BUOEbNu_IuO-4FZoMR6m43&authKey=heN7%2BG%2FFLoPj1tZ%2Blg%2FWS11WrzYkHkMTVgv9qg9aPGlR5pbEOmzvTBv7npYU1d56&noverify=0&group_code=879763865) 
 
 ## 项目效果
 
@@ -56,7 +51,7 @@
 
 <table>
     <tr>
-        <td ><center><img src="./%E9%A1%B9%E7%9B%AE%E7%A4%BA%E4%BE%8B%E5%9B%BE/%E7%94%B5%E8%84%91%E7%AB%AF%E5%9B%BE%E7%89%87%E4%B8%80.png" width="400">图1</center></td>
+        <td ><center><img src="[./%E9%A1%B9%E7%9B%AE%E7%A4%BA%E4%BE%8B%E5%9B%BE/%E7%94%B5%E8%84%91%E7%AB%AF%E5%9B%BE%E7%89%87%E4%B8%80.png](https://gitee.com/aniu-666/chat-gpt-website/raw/ma…%E8%84%91%E7%AB%AF%E5%9B%BE%E7%89%87%E4%B8%80.png)" width="400">图1</center></td>
         <td ><center><img src="./%E9%A1%B9%E7%9B%AE%E7%A4%BA%E4%BE%8B%E5%9B%BE/%E7%94%B5%E8%84%91%E7%AB%AF%E5%9B%BE%E7%89%87%E4%BA%8C.png" width="400">图2</center></td>
     </tr>
     <tr>
